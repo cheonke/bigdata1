@@ -1,6 +1,7 @@
 package ks.smhrd;
 
 public class myUtil {
+	// 1 ~10까지의 총 합을 구하는 동작 
 	
 	public int hap() {
 		int sum=0;
